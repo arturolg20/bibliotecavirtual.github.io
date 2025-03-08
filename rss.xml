@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Bienvenidos a la biblioteca virtual Arlego</title>
+    <link>https://arturolg20.github.io/bibliotecavirtual.github.io/index.html</link>
+    <description>Bienvenidos a la Biblioteca Arlego, donde encontrarás una gran variedad de libros y recursos.</description>
+    <language>es</language>
+
+    <item>
+      <title>Biblioteca Arlego</title>
+      <link>https://arturolg20.github.io/bibliotecavirtual.github.io/Inicio.html</link>
+      <description>Descubre qué encontrarás en nuestra biblioteca y cómo puedes empezar a explorar.</description>
+      <pubDate>Wed, 08 Mar 2025 10:00:00 GMT</pubDate>
+      <guid>https://arturolg20.github.io/bibliotecavirtual.github.io/Inicio.html</guid>
+    </item>
+
+    <item>
+      <title>Catálogo Arlego</title>
+      <link>https://arturolg20.github.io/bibliotecavirtual.github.io/Catalogos.html</link>
+      <description>Consulta nuestras recomendaciones del mes dentro de nuestro catálogo de libros y elige el que más te interese.</description>
+      <pubDate>Wed, 08 Mar 2025 11:00:00 GMT</pubDate>
+      <guid>https://arturolg20.github.io/bibliotecavirtual.github.io/Catalogos.html</guid>
+    </item>
+
+    <item>
+      <title>Servicios Arlego</title>
+      <link>https://arturolg20.github.io/bibliotecavirtual.github.io/Servicios.html</link>
+      <description>Aprende más sobre los diversos recursos que proporcionamos en BV Arlego.</description>
+      <pubDate>Wed, 08 Mar 2025 12:00:00 GMT</pubDate>
+      <guid>https://arturolg20.github.io/bibliotecavirtual.github.io/Servicios.html</guid>
+    </item>
+
+  </channel>
+</rss>
